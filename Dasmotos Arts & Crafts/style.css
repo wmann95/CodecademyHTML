@@ -8,7 +8,7 @@
 	color: white;
 }
 
-h1 {
+header h1{
 	background-image: url(assets/pattern.jpeg);
 	font-size: 100px;
 	font-weight: bold;
